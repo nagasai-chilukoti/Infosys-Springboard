@@ -18,10 +18,10 @@ By integrating this tool into medical workflows, ophthalmologists can receive AI
 
 ### 📊 *Dataset Used*
 
-The dataset used in this project is organized in Google Drive and divided into two folders:
+The dataset used in this project is stored in **Google Drive**, under the following directory paths in Colab:
 
-* **With Tumor**
-* **Without Tumor**
+* 📂 Tumor images:
+  `/content/drive/MyDrive/G3CNN/dataset/tumor`
 
-You can directly access the dataset here:
-📁 [Google Drive Folder Link](https://drive.google.com/drive/folders/1B41WaDyAFvMUnAmeY7pvleED-6gMY7m7?usp=sharing)
+* 📂 Non-tumor (healthy) images:
+  `/content/drive/MyDrive/G3CNN/dataset/no_tumor`
