@@ -18,13 +18,10 @@ By integrating this tool into medical workflows, ophthalmologists can receive AI
 
 ### 📊 *Dataset Used*
 
-The dataset used in this project is collected from **The Rayid Method of Iris Analysis** by **Miles Research**:
-🔗 [http://milesresearch.com/main/links.htm](http://milesresearch.com/main/links.htm)
-
-The dataset is divided into two categories:
+The dataset used in this project is organized in Google Drive and divided into two folders:
 
 * **With Tumor**
 * **Without Tumor**
 
-You can access the dataset here:
-📁 [Google Drive Link](https://drive.google.com/drive/folders/1Tzc9ym41ni1K9g9zDck3tRQ7i5MaWDoS?usp=drive_link)
+You can directly access the dataset here:
+📁 [Google Drive Folder Link](https://drive.google.com/drive/folders/1B41WaDyAFvMUnAmeY7pvleED-6gMY7m7?usp=sharing)
