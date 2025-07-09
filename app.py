@@ -113,7 +113,7 @@ if uploaded_file is not None:
 
     with col1:
         st.subheader("🖼️ Uploaded Image")
-        st.image(raw_image, caption="✅ Image Preview", use_column_width=True)
+        st.image(raw_image, caption="✅ Image Preview", use_container_width=True)
 
     with col2:
         st.subheader("🧪 Prediction Results")
