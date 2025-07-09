@@ -13,15 +13,3 @@ Iris tumors are rare and tiny growths that can appear on the iris, and due to th
 The model processes eye images and identifies whether they are healthy or show signs of a tumor. It uses CNN-based architecture to extract subtle and complex features that may not be visible through manual inspection. The training dataset includes images from both healthy individuals and patients with iris tumors. These images are preprocessed and augmented to ensure robust and generalized performance across a variety of image conditions.
 
 By integrating this tool into medical workflows, ophthalmologists can receive AI-based support for early tumor diagnosis, ultimately helping improve patient care through faster and more accurate assessments.
-
----
-
-### 📊 *Dataset Used*
-
-The dataset used in this project is stored in **Google Drive**, under the following directory paths in Colab:
-
-* 📂 Tumor images:
-  `/content/drive/MyDrive/G3CNN/dataset/tumor`
-
-* 📂 Non-tumor (healthy) images:
-  `/content/drive/MyDrive/G3CNN/dataset/no_tumor`
